@@ -1,0 +1,23 @@
+{
+  "name": "doneactionlog",
+  "version": "1.0.0",
+  "description": "Log of Done Action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santa-mk/DoneActionLog.git"
+  },
+  "keywords": [
+    "work",
+    "log"
+  ],
+  "author": "Kosuke.Mita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santa-mk/DoneActionLog/issues"
+  },
+  "homepage": "https://github.com/santa-mk/DoneActionLog#readme"
+}
